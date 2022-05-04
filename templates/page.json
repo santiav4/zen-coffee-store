@@ -1,0 +1,65 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {}
+    },
+    "1631299110bd754b5d": {
+      "type": "testimonial-slider",
+      "blocks": {
+        "ec3859e8-22f8-40d5-b0c6-e2a34806ae64": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur consectetur dui at libero consequat tincidunt. Proin nec iaculis est, atpretium elit. Nullam nec nisi leo. Vestibulum id porta nisl, vitae maximus sapien. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi vel est elit. Duis ut ante lacinia, euismod arcu nec, cursus ligula. <\/p>",
+            "name": "Ivan",
+            "image": "shopify:\/\/shop_images\/user_1.jpg"
+          }
+        },
+        "2e0adebd-342d-4e8c-b96c-0bc1732132bf": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p><br\/>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur consectetur dui at libero consequat tincidunt. Proin nec iaculis est, atpretium elit. Nullam nec nisi leo. Vestibulum id porta nisl, vitae maximus sapien. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi vel est elit. Duis ut ante lacinia, euismod arcu nec, cursus ligula. <\/p>",
+            "name": "Erika",
+            "image": "shopify:\/\/shop_images\/user_2.jpg"
+          }
+        },
+        "e22bae6d-5ff1-43e8-ba06-271c68f8531e": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p><br\/>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur consectetur dui at libero consequat tincidunt. Proin nec iaculis est, atpretium elit. Nullam nec nisi leo. Vestibulum id porta nisl, vitae maximus sapien. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi vel est elit. Duis ut ante lacinia, euismod arcu nec, cursus ligula. <\/p>",
+            "name": "Igor",
+            "image": "shopify:\/\/shop_images\/user_3.jpg"
+          }
+        },
+        "725a2967-b6d5-4608-9c8a-7381bd20c55f": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur consectetur dui at libero consequat tincidunt. Proin nec iaculis est, atpretium elit. Nullam nec nisi leo. Vestibulum id porta nisl, vitae maximus sapien. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi vel est elit. Duis ut ante lacinia, euismod arcu nec, cursus ligula. <\/p>",
+            "name": "Jeff",
+            "image": "shopify:\/\/shop_images\/user_4.jpg"
+          }
+        },
+        "6bbe4a25-556c-4a1a-b1ac-439a06659781": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur consectetur dui at libero consequat tincidunt. Proin nec iaculis est, atpretium elit. Nullam nec nisi leo. Vestibulum id porta nisl, vitae maximus sapien. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi vel est elit. Duis ut ante lacinia, euismod arcu nec, cursus ligula. <\/p>",
+            "name": "Linda",
+            "image": "shopify:\/\/shop_images\/user_5.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "ec3859e8-22f8-40d5-b0c6-e2a34806ae64",
+        "2e0adebd-342d-4e8c-b96c-0bc1732132bf",
+        "e22bae6d-5ff1-43e8-ba06-271c68f8531e",
+        "725a2967-b6d5-4608-9c8a-7381bd20c55f",
+        "6bbe4a25-556c-4a1a-b1ac-439a06659781"
+      ],
+      "settings": {}
+    }
+  },
+  "order": [
+    "main",
+    "1631299110bd754b5d"
+  ]
+}

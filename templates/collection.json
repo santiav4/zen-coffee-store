@@ -1,0 +1,90 @@
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": false,
+        "show_collection_image": false
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 16,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "enable_filtering": true,
+        "enable_sorting": true,
+        "collapse_on_larger_devices": false
+      }
+    },
+    "163111447238249628": {
+      "type": "multicolumn",
+      "blocks": {
+        "163111447238249628-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/farmer.png",
+            "title": "Direct Relations to Farmers",
+            "text": "<p>Lorem ipsum dolor sitamet,consectetur adipiscing elit. Quisque dolor elit, malesuada sed interdum et, tristique in dolor. Donec sodales eget mauris in eleifend. Fusce interdum hendrerit arcu ac dictum. Donec quam nisi, sagittis id consectetur a,dignissim eget erat. Ut ac tempor arcu. Mauris lorem odio, feugiat eget condimentum nec, lobortis eu ipsum. Quisque tempus fermentum convallis.<\/p>"
+          }
+        },
+        "163111447238249628-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/coffee-plant.png",
+            "title": "Plant a tree for 3rd Order",
+            "text": "<p>Pellentesque porta sit amet dolor et condimentum. Sed aliquam erat commodo sem malesuada rutrum. Integer id orci ac sem molestie vehicula vitae nec dui. Sed egestas, diam quis imperdiet viverra, lacus leo portatellus, non imperdiet odio purus efficitur neque. Cras ac augue sed <br\/>erat imperdiet bibendum nec ac justo. Duis leo nisl, condimentum ac mi at, eleifend feugiat metus. Quisque mattis porta metus, quis volutpat extincidunt non. Integer venenatis nisi risus, a elementum nisl sagittiseget. Ut pretium metus justo, eget volutpat ligula aliquam ac. Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br\/><\/p><p><br\/><br\/><\/p>"
+          }
+        },
+        "163111447238249628-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/roaster.png",
+            "title": "Roasted by Hand in FL",
+            "text": "<p>Vivamus lacinia a tortor quis egestas. Vestibulum porta accumsan orci <br\/>egestas ornare. Maecenas mollis tincidunt turpis auctor luctus. Vivamus eu massa iaculis, pretium nunc et, porta neque. Praesent nec consecteturfelis. Sed et lorem at dolor iaculis suscipit at fringilla augue. Vestibulum ac tincidunt lorem. Phasellus cursus augue sed quam eleifend,iaculis faucibus massa interdum.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "163111447238249628-0",
+        "163111447238249628-1",
+        "163111447238249628-2"
+      ],
+      "settings": {
+        "title": "Our Promises ⭐",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": true
+      }
+    },
+    "163111543597dbfd5e": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Your May Also Like 💗",
+        "collection": "coffee",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "product-grid",
+    "163111447238249628",
+    "163111543597dbfd5e"
+  ]
+}
